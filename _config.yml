@@ -11,10 +11,3 @@ plugins:
 
 # Markdown settings
 markdown: kramdown                 # Jekyll uses kramdown by default for Markdown
-
-navigation:
-- title: Home
-  url: "{{ site.baseurl }}/"
-- title: Homework 0
-  url: "{{ site.baseurl }}/homework-0/"
-
