@@ -1,4 +1,4 @@
-# Homework Downloads
+# Homework downloads
 
 ## Homework 0
 
