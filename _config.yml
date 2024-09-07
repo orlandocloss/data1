@@ -12,5 +12,4 @@ plugins:
 # Markdown settings
 markdown: kramdown                 # Jekyll uses kramdown by default for Markdown
 
-exclude:
-  - README.md
+
