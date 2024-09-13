@@ -8,4 +8,4 @@
 ## Assignment 2
 
 - [Download Assignment 2 Notebook](./assignment2/Assignment2.ipynb)
-- [Download Assignment 2 PDF](./homework-0/Assignment2.pdf)
+- [Download Assignment 2 PDF](./assignment2/Assignment2.pdf)
