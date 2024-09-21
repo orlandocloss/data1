@@ -52,9 +52,11 @@ The bar graph shows the total casualties for Afghan forces and civilians for eve
 - [Download Assignment 3 PDF](./assignment3/Assignment3.pdf)
 
 **Q6 correlation scatter plot:**
+
 ![Q6 correlation](./lab-02-figs/correlation.png)
 
 **Q7 boxplot:**
+
 ![Q7 boxplot](./lab-02-figs/boxplot.png)
 
 
