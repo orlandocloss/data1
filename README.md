@@ -1,5 +1,7 @@
 # Homework downloads
 
+**See assignment 3 at the bottom of this page.**
+
 ## Homework 0
 
 - [Download Homework 0 Notebook](./homework-0/hw-00.ipynb)
