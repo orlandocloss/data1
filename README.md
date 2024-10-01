@@ -1,6 +1,6 @@
 # Homework downloads
 
-**See assignment 3 at the bottom of this page.**
+**See assignment 4 at the bottom of this page.**
 
 ## Homework 0
 
@@ -60,6 +60,11 @@ The bar graph shows the total casualties for Afghan forces and civilians for eve
 **Q7 boxplot:**
 
 ![Q7 boxplot](./lab-02-figs/boxplot.png)
+
+## Assignment 4
+
+- [Download Assignment 4 Notebook](./assignment4/hw-04.ipynb)
+- [Download Assignment 4 PDF](./assignment4/hw-04.pdf)
 
 
 
